@@ -17,8 +17,11 @@ Modules that can be used
 - Pywhatkit
 - Tkinter
 ## 4. Otp Verification
-
 Modules that can be used
 - Tkinter
 - Random 
 (An API for message)
+
+## 5. Virtual Assistant
+## 6. Creating a URL shortening serive
+- Django can be used for this
