@@ -11,3 +11,10 @@ def push(self,x):
 self.x=x  
 self.stack.append(self.x)  
 print(f"{x} added to the stack.")  
+``` if list is empty```
+def pop(self):  
+if len(self.stack)==0:  
+print("Stack Empty")  
+```removing the last element using pop```  
+else:  
+return self.stack.pop()  
