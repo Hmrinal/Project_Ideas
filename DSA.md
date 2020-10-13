@@ -17,7 +17,7 @@ if len(self.stack)==0:
 print("Stack Empty")  
 ```removing the last element using pop```  
 else:  
-return self.stack.pop()  
+return self.stack.pop( )  
 
 ## 2. Queue Data Structure
 A queue is a linear structure which follows a particular order in which the operations are performed. The order is First In First Out(FIFO)
