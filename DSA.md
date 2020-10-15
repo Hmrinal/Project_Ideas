@@ -42,4 +42,4 @@ print("Queue Empty")
 else:  
 return self.queue.pop(0)  
 
-[Queue PushPop Diagram](pushPopQueue.png)
+![Queue PushPop Diagram](pushPopQueue.png)
