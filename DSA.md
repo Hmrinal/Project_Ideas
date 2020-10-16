@@ -21,6 +21,8 @@ return self.stack.pop( )
 
 ![Stack PushPop Diagram](pushPop.png)
 
+- Stack Push Pop
+
 ## 2. Queue Data Structure
 A queue is a linear structure which follows a particular order in which the operations are performed. The order is First In First Out(FIFO)
 like a one way tunnel
