@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 ## Complexity 
-
+![List Complexity Diagram](list_complexity.png)
 ### 1. Stack
 Stacks are based on the LIFO principle,i.e, The element inserted at the last, is the first element to come out of the list.
 - EX.  
