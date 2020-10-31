@@ -1,5 +1,7 @@
 # Data Structures and Algorithms
-## 1. Stack
+## Complexity 
+
+### 1. Stack
 Stacks are based on the LIFO principle,i.e, The element inserted at the last, is the first element to come out of the list.
 - EX.  
 class stack:  
@@ -23,7 +25,7 @@ return self.stack.pop( )
 
 - Stack Push Pop
 
-## 2. Queue Data Structure
+### 2. Queue Data Structure
 A queue is a linear structure which follows a particular order in which the operations are performed. The order is First In First Out(FIFO)
 like a one way tunnel
 - EX.  
