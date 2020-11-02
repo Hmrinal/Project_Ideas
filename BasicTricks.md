@@ -42,3 +42,33 @@ items=[1,2,3,4]
 squared=list(map(lambda x:x**2,items))
 print(squared)
 - Output:[1,4,9,16]
+## 4. The python debugger
+- for big projects
+def add(a,b):  
+  print(a+b)
+add(1,2) - output: 3
+import pdb
+pdb.set_trace()
+```pauses the execution and helps you to debug and identify the problem```
+add(1,'two') - output: gives error
+## 5. List and Dict Compression
+### Usual
+fruits=[  
+         {'name':'apple',  
+         'color':'red'},  
+         {'name':'banana',  
+         'color':'yellow'},]  
+fruit_name=[]  
+for fruit in fruits:  
+  fruit_name.append(  
+    fruit['name'])  
+print(fruit_name)  
+### Another Way
+fruits=[  
+         {'name':'apple',  
+         'color':'red'},  
+         {'name':'banana',  
+         'color':'yellow'},]  
+fruit_name=[fruit['name'] for fruit in fruits]  
+print(fruit_name)  
+- output:['apple','banana']  
