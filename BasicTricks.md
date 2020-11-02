@@ -27,3 +27,18 @@ for i in range(10):
         if i%2==0]  
  print(even)  
  - Output: [0,2,4,6,8]  
+## 3. Lamda Function
+### Usual
+items=[1,2,3,4]  
+def square(n):  
+  return n*n  
+squared=[]  
+for item in items:  
+  squared.append(square(item))  
+print(squared)  
+- Output:[1,4,9,16]
+### Another Way
+items=[1,2,3,4]  
+squared=list(map(lambda x:x**2,items))
+print(squared)
+- Output:[1,4,9,16]
