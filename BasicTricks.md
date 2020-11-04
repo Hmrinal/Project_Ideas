@@ -80,12 +80,12 @@ print(emojize(":thumbs_up:"))
 ## 7. Instant Stack Overflow
 !pip install howdoi  
 !howdoi for loop in PYTHON  
-``` output:```
-```mylist=[1,2,3]```
-```for item in mylist:```
-  ```print item```
-```mydict={1:'one',2:'two',3:'three'}```
-```for key in mydict:```
-  ```print key, mydict[key] ```  
+``` output:```  
+```mylist=[1,2,3]```  
+```for item in mylist:```  
+  ```print item```  
+```mydict={1:'one',2:'two',3:'three'}```  
+```for key in mydict:```  
+  ```print key, mydict[key] ```    
 note: it scrapes code from top answers from StackOverflow. It might not always give the most helpful information 
   
