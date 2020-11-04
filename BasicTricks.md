@@ -72,3 +72,19 @@ fruits=[
 fruit_name=[fruit['name'] for fruit in fruits]  
 print(fruit_name)  
 - output:['apple','banana']  
+## 6. Print Emojies
+!pip install emoji  
+from emoji import emojize  
+print(emojize(":thumbs_up:"))  
+- Output: :thumbsup:
+## 7. Instant Stack Overflow
+!pip install howdoi  
+!howdoi for loop in PYTHON  
+```output:
+mylist=[1,2,3]
+for item in mylist:
+  print item
+mydict={1:'one',2:'two',3:'three'}
+for key in mydict:
+  print key, mydict[key]```
+  
