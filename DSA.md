@@ -1,4 +1,5 @@
 # Data Structures and Algorithms
+Data Structures are a crucial part of several computer algorithms as they allow programmers to do data management efficiently. A wise selection of data structures can improve the performance of a computer program or algorithm in a more useful way. ⁣
 ## Complexity 
 ![List Complexity Diagram](list_complexity.png)
 ### 1. Stack
