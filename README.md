@@ -1,4 +1,4 @@
-# Python_Knowledge
+# Python Knowledge
 
 Here is how python useful in the real-world !👨‍⚖️⁣⁣⁣⁣⁣⁣⁣⁣
 
@@ -8,4 +8,4 @@ Here is how python useful in the real-world !👨‍⚖️⁣⁣⁣⁣⁣⁣⁣�
 - Software Development : From developing complex applications that involve scientific and numeric computing to developing desktop and web applications, Python can do it all. This is the reason why Software Developers use Python as a support langusge for build control, testing and management.
 - Operating Systems : Python is the secret ingredient behind many operating systems as well, most populary of Linux distributions. Linux- based Ubuntu's Ubiquity Installer and Fedora and Red Hat Enterprise's Anaconda Installer are coded in Python. Even Gentoo Linux leverages Python Portage(package management system).
 - Desktop GUI : Python offers many GUI toolkits and frameworks that make desktop application development a breeze. PyQt, PyGtk, Kivy, Tkinyer, WxPython, PyGUI and PySide are some of the best Python- based GUI frameworks that allow developers to create highly functional Graphical User Interfaces(GUIs).
-- Language Development
+- Language Development : Python's design and module architecture has been the inspiration behind the development of many new programming languages such as Boo, Swift, CoffeeScript, Cobra and OCaml. All of these languages share numerous similarities with Python on grounds like object model, syntax and indentation.  
