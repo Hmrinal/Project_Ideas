@@ -8,3 +8,10 @@ It is used to open any file, we can open in 4 different modes.
 - "w" Write : Opens a file for writing, creates the file if it does not exist.
 - "x" Create : Creates the specified file, returns an error if the file exists.
 
+![File Format](file.png)
+
+print(f.read())  
+It will print out the data of file  
+f.close()  
+always close your file after the work is done  
+
