@@ -15,3 +15,23 @@ It will print out the data of file
 f.close()  
 always close your file after the work is done  
 
+``` It will append the data, the mode is "A" ```
+
+f= open("file.txt","a")  
+f.write("appended something")  
+f.close()  
+- open and read the file after the appending:  
+f= open("file.txt","r")  
+print(f.read())  
+
+```It will over write the data, the mode is "w" ```
+
+f= open("file.txt","w")  
+f.write("Over write the content")  
+f.close()  
+- open and read the file after the appending:
+f= open("file.txt","r")  
+print(f.read())  
+
+``` Create a file called "myfile.txt" : ```
+f= open("myfile.txt","x")  
