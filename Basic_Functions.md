@@ -16,4 +16,11 @@ The map() function in Python takes in a function and a Sequence as arguments, ap
 - s=['lower','case','letters']  
 upper_case= list(map(lambda a:a.upper(),s))  
 print(upper_case)  
-```['LOWER','CASE','LETTERS']
+```['LOWER','CASE','LETTERS']```
+
+## 3. Filter()
+The filter() function in Python takes in a function and a Sequence as arguments
+- ages =[13,90,17,59,21,60,5]  
+adults=list(filter(lambda age:age>18,ages))  
+print(adults)  
+```[90,59,21,60]```
