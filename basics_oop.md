@@ -1,4 +1,4 @@
-# Pillars of Oop
+# Pillars of Oop(Object Oriented Programming)
 
 ## 1. Inheritance 
 - Sharing of information
