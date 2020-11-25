@@ -7,12 +7,22 @@ We created a class with one property species
 
 ![Class](class.png)
 
+   ```__init__(self)```
+ All classes have a function called __init__(), which is always executed when the class is being initiated. Use the __init__() function to assign values to object properties.
+ 
+![Class Formation Example](example.png)
+
+output: John 36 (name and age are properties here)
+
 ### 1. Inheritance 
 - Sharing of information
 - Base class inherits derive class
 - One class acquires the property of another class
 
 ![Inheritance Example](Inheritance.png)
+
+- Methods 
+
 
 ### 2. Abstraction
 - Hiding of information
