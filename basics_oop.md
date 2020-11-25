@@ -37,7 +37,7 @@ output: John 36 (name and age are properties here)
 - keeps both safe from outside interference and misuse(including class, methods, variables)
 - Eg. like in capsules, medicine is safe
 
-![Encapsulation Example](Inheritance.png)
+![Encapsulation Example](Encapsulation.png)
 
 ### 4. Polymorphism
 - Redefining of information
