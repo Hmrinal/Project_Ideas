@@ -14,6 +14,10 @@ We created a class with one property species
 
 output: John 36 (name and age are properties here)
 
+- Methods 
+
+![Method Example]
+
 ### 1. Inheritance 
 - Sharing of information
 - Base class inherits derive class
@@ -21,9 +25,7 @@ output: John 36 (name and age are properties here)
 
 ![Inheritance Example](Inheritance.png)
 
-- Methods 
 
-![Method Example]
 
 ### 2. Abstraction
 - Hiding of information
