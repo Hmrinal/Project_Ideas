@@ -16,7 +16,7 @@ output: John 36 (name and age are properties here)
 
 - Methods 
 
-![Method Example]
+![Method Example](method.png)
 
 ### 1. Inheritance 
 - Sharing of information
