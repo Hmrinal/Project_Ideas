@@ -23,6 +23,7 @@ output: John 36 (name and age are properties here)
 
 - Methods 
 
+![Method Example]
 
 ### 2. Abstraction
 - Hiding of information
