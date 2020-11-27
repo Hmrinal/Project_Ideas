@@ -7,7 +7,7 @@ We created a class with one property species
 
 ![Class](class.png)
 
-   ```__init__(self)```
+   ```__init__(self)```  
  All classes have a function called __init__(), which is always executed when the class is being initiated. Use the __init__() function to assign values to object properties.
  
 ![Class Formation Example](example.png)
