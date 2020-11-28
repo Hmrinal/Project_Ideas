@@ -1,7 +1,7 @@
 # Pillars of Oop(Object Oriented Programming)
 
 ## Class
-Almost everything in Pyhton is an object, with  its properties and methods. A Class is like a 'blueprint' for creating objects.
+Almost everything in Pyhton is an object, with  its properties and methods. A Class is like a 'blueprint' for creating objects.  
 ``` class Human: species="Human" ```
 We created a class with one property species
 
