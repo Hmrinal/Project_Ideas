@@ -28,6 +28,6 @@ Python's design and module architecture has been the inspiration behind the deve
 - Let's see an example: Playing normal games on PC : Fast(C++)   
 while using emulator to play Mobile games on PC : Slow(Python)
 - Python is Dynamically typed while C++ is static (Garbage collection in Python)
-``` We can say no language is better than other.   ```
-```If you want to build software/games C++ is a better choice ``` 
-```You want to play with data and build web, Python is better choice ```
+``` We can say no language is better than other.   ```  
+```If you want to build software/games C++ is a better choice ```   
+```You want to play with data and build web, Python is better choice ```  
