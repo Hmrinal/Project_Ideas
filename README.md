@@ -22,3 +22,8 @@ Python offers many GUI toolkits and frameworks that make desktop application dev
 
 - Language Development :   
 Python's design and module architecture has been the inspiration behind the development of many new programming languages such as Boo, Swift, CoffeeScript, Cobra and OCaml. All of these languages share numerous similarities with Python on grounds like object model, syntax and indentation.  
+
+## Why is Python slow?
+- Python is an interpreted language (it is translated into bytecode which later interpreted into the machine code) while language like C++ is compiled (it compiles/translated into machine code which cpu understands).
+- Let's see an example: Playing normal games on PC : Fast(C++)   
+while using emulator to play Mobile games on PC : Slow(Python)
