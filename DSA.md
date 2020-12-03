@@ -77,9 +77,14 @@ self=.next=next
 ``` A linked list class with a single head node ```  
 class LinkedList:  
 def __init__(self):  
-self.head=None  
+self.head = None  
 ``` Linked List with a single node ```  
 LL=LinkedList()  
 LL.head=Node(3)  
 print(LL.head.data)  
 
+- Add new methods to your LinkedList class  
+``` A linked list class with a single head node ```    
+class LinkedList:  
+def __init__(self):  
+self.head = None  
