@@ -60,13 +60,26 @@ Start with a node
 ``` A single node of a singly linked list ```  
 class Node:  
 `` constructor ``  
-def __init__ (self,daya,next=None):  
+def __init__ (self,data,next=None):  
 self.data= data  
 self.next=next  
 ``` creating a single node ```  
 first = Node(3)  
 print(first.data)  
 
-- Join Nodes to create a linkedList  
-
+- Join Nodes to create a linkedList    
+``` A single node of a single linked list ```  
+class Node:  
+`` constructor ``  
+df __init__(self,data=None,next=None):  
+self.data=data  
+self=.next=next  
+``` A linked list class with a single head node ```  
+class LinkedList:  
+def __init__(self):  
+self.head=None  
+``` Linked List with a single node ```  
+LL=LinkedList()  
+LL.head=Node(3)  
+print(LL.head.data)  
 
