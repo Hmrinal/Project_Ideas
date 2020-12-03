@@ -50,3 +50,23 @@ return self.queue.pop(0)
 ![Queue PushPop Diagram](pushPopQueue.png)
 
 - Queue Push Pop
+
+### 3. Linked List Data Structure
+
+In computer science, a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next.
+
+- Implementation with python  
+Start with a node  
+``` A single node of a singly linked list ```  
+class Node:  
+`` constructor ``  
+def __init__ (self,daya,next=None):  
+self.data= data  
+self.next=next  
+``` creating a single node ```  
+first = Node(3)  
+print(first.data)  
+
+- Join Nodes to create a linkedList  
+
+
