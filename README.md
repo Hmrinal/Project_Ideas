@@ -31,3 +31,8 @@ while using emulator to play Mobile games on PC : Slow(Python)
 ``` We can say no language is better than other.   ```  
 ```If you want to build software/games C++ is a better choice ```   
 ```You want to play with data and build web, Python is better choice ```  
+
+## Some books to refer 
+- Learn Python the Hard Way by Zed Shaw
+- Automate the Boring Stuff with Python: Practical Programming for Total Beginners by AL Sweigart
+- Python Cash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes
