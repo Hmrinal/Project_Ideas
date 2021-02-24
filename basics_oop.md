@@ -15,14 +15,14 @@ We created a class with one property species
 
 Output: John 36 (name and age are properties here)
 
-- Methods 
+#### Methods 
 
 ![Method Example](method.png)
 
 Output: hello my name is jhon  
 Adding a method to the class Person (here speak is a method(function))
 
-- Self
+#### Self
 The self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class. It does not have to be named self, you can call it whatever you like, but it has to be the first parameter of any function in the class.
 
 ![example of self](self.png)
