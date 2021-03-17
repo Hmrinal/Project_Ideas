@@ -1,6 +1,6 @@
 # Python Knowledge
 
-Here is how python useful in the real-world ! 👨‍⚖️⁣⁣⁣⁣⁣⁣⁣⁣
+Here is how python useful in the real-world ! 👨‍⚖️⁣⁣⁣⁣⁣
 
 - Web Development :   
 Python web frameworks are known for their security, scalability, and flexibility. To add to that, Python's Package Index comes with useful libraries like Requests, BeautifulSoup, Paramiko, Feedparser and Twisted Python (Django, Flask, Cherrypy)
@@ -35,9 +35,9 @@ Biopython, Numpy, Pandas, Matplotlib, etc
 - Let's see an example: Playing normal games on PC : Fast(C++)   
 while using emulator to play Mobile games on PC : Slow(Python)
 - Python is Dynamically typed while C++ is static (Garbage collection in Python)  
-` We can say no language is better than other.   `  
-`If you want to build software/games C++ is a better choice `   
-`You want to play with data and build web, Python is better choice `  
+` We can say no language is better than other.`  
+`If you want to build software/games C++ is a better choice`   
+`You want to play with data and build web, Python is better choice`  
 
 ## Some books to refer   
 
